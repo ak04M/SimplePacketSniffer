@@ -1,7 +1,5 @@
 # SimplePacketSniffer
 
-# SimplePacketSniffer
-
 A basic packet sniffer built using Python and Scapy.
 
 ## Features
